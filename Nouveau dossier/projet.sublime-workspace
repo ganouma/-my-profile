@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"fr\">\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"description\" content=\"This is the profile of Mohamed Amine Ganouma\">\n    <title>Mohamed Amine Ganouma profile</title>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap\" rel=\"stylesheet\">\n    <script src=\"https://kit.fontawesome.com/708b5fe4dd.js\" crossorigin=\"anonymous\"></script>\n    <link rel=\"stylesheet\" href=\"style.css\">\n</head>\n\n<body>\n    <div class=\"container\">\n        <div class=\"card-white\" id=\"introduction\">\n            <h1>Hello, I'm Mohamed Amine Ganouma 🙋‍♂️</h1>\n            <img src=\"images/profile.png\" class=\"img-circle\" width=\"100\" alt=\"Profile picture of Mohamed Amine Ganouma \">\n            <p>\n                Diplômé d'une licence nationale en génie mécanique avec une spécialisation en Conception et Fabrication Mécanique en 2022, je poursuis\n                actuellement un diplôme d'ingénieur en génie industriel. Fort d'une solide expertise dans les domaines mécanique et industriel, je suis\n                passionné par la conception, la mise en œuvre et l'optimisation de solutions mécanique innovantes pour les environnements\n                industriels. Mon parcours académique et mes expériences professionnelles m'ont permis de développer des compétences\n                techniques pointues ainsi que des qualités de leadership et de gestion.\n            </p>\n            <a href=\"https://www.universitecentrale.net/polytech/fr/filiere/14/genie-industriel\" target=\"_blank\" class=\"btn-blue\"> Genie Industriel </a>\n        </div>\n\n        <div class=\"card-white\">\n            <h2>DIPLÔMES</h2>\n            <p>\n                Oct. 2022 - Présent : Diplôme National d'ingénieur - Génie Industriel\n                - 1ère année - Génie Industriel\n                Ecole Centrale Polytechnique Privée de Tunis\n                Sept. 2019 - Juin 2022 : Licence nationale - Génie mécanique\n                - 3ème année - Licence Nationale en Conception et Fabrication Mécanique \n                L’Institut Supérieure des Eude Technologique du kef \n                Sept. 2018 - Juin 2019 : Baccalauréat - Sciences techniques\n                Lycée Ibn Abi Dhiaf Manouba \n            </p>\n        </div>\n\n        <div class=\"card-white\">\n            <h2>COMPÉTENCES</h2>\n            <p>\n                Esprit Entrepreneurial - Avancé\n                Marketing Digital - Avancé\n                Construire mon Business Plan - Avancé\n                Collaboration - Expert\n                Communication - Avancé\n                Créativité - Avancé\n                Design Thinking - Avancé\n                Esprit Critique - Expert\n                Sens de l'initiative. - Avancé\n                Flexibilité - Expert\n            </p>\n        </div>\n\n        <div class=\"card-white\">\n            <h2>LANGUES</h2>\n            <p>\n                ALLEMAND\n                ANGLAIS\n                ARABE\n                FRANÇAIS\n            </p>\n        </div>\n\n        <div class=\"card-white\">\n            <h2>follow me</h2>\n            <ul class=\"list-inline\">\n                <li>\n                    <a href=\"https://www.facebook.com/Amine.Ganouma/\" target=\"_blank\" aria-label=\"Follow Amine.Ganouma on Facebook\">\n                        <i class=\"fa-brands fa-facebook\"></i>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"https://www.instagram.com/Amine.Ganouma/\" target=\"_blank\" aria-label=\"Follow Amine.Ganouma on Instagram\">\n                        <i class=\"fa-brands fa-instagram\"></i>\n                    </a>\n                </li>\n            </ul>\n        </div>\n    </div>\n</body>\n</html>\n",
+			"file": "digital skils/my-profile/index.html",
+			"file_size": 3930,
+			"file_write_time": 133751192200000000,
+			"settings":
+			{
+				"buffer_size": 3867,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AgAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACWAAAAAAAAAA8AAABOaWRoYWwgQW91aW5pJ3M",
+					"AQAAAAAAAAABAAAApAAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJUAAAAAAAAAlQAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "MOHAMED"
+					},
+					"BwAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " aA"
+					},
+					"AwAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAACeAAAAAAAAAJ8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJ4AAAAAAAAAngAAAAAAAAABAAAAQZ0AAAAAAAAAnQAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAJ0AAAAAAAAAngAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ0AAAAAAAAAnQAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAJ0AAAAAAAAAngAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					6,
+					"left_delete",
+					null,
+					"BgAAAJsAAAAAAAAAmwAAAAAAAAABAAAARJoAAAAAAAAAmgAAAAAAAAABAAAARZkAAAAAAAAAmQAAAAAAAAABAAAATZgAAAAAAAAAmAAAAAAAAAABAAAAQZcAAAAAAAAAlwAAAAAAAAABAAAASJYAAAAAAAAAlgAAAAAAAAABAAAATw",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "O"
+					},
+					"AQAAAJYAAAAAAAAAlwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYAAAAAAAAAlgAAAAAAAAABAAAATw",
+					"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "oham"
+					},
+					"BAAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "ed"
+					},
+					"AgAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "mine"
+					},
+					"BAAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " G"
+					},
+					"AgAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "anouma"
+					},
+					"BgAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AgAAAN8CAAAAAAAA9QIAAAAAAAAAAAAA9QIAAAAAAAD1AgAAAAAAAAYAAABOaWRoYWw",
+					"AQAAAAAAAAABAAAA3wIAAAAAAADlAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					10,
+					"left_delete",
+					null,
+					"CgAAAMIDAAAAAAAAwgMAAAAAAAABAAAAZcEDAAAAAAAAwQMAAAAAAAABAAAAdcADAAAAAAAAwAMAAAAAAAABAAAAcb8DAAAAAAAAvwMAAAAAAAABAAAAab4DAAAAAAAAvgMAAAAAAAABAAAAcr0DAAAAAAAAvQMAAAAAAAABAAAAdLwDAAAAAAAAvAMAAAAAAAABAAAAY7sDAAAAAAAAuwMAAAAAAAABAAAAZboDAAAAAAAAugMAAAAAAAABAAAAbLkDAAAAAAAAuQMAAAAAAAACAAAAw6k",
+					"AQAAAAAAAAABAAAAwwMAAAAAAADDAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "mécan"
+					},
+					"BQAAALkDAAAAAAAAugMAAAAAAAAAAAAAugMAAAAAAAC7AwAAAAAAAAAAAAC7AwAAAAAAALwDAAAAAAAAAAAAALwDAAAAAAAAvQMAAAAAAAAAAAAAvQMAAAAAAAC+AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQMAAAAAAAC5AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "ique"
+					},
+					"BAAAAL4DAAAAAAAAvwMAAAAAAAAAAAAAvwMAAAAAAADAAwAAAAAAAAAAAADAAwAAAAAAAMEDAAAAAAAAAAAAAMEDAAAAAAAAwgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgMAAAAAAAC+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "méc"
+					},
+					"BAAAAN4DAAAAAAAA3wMAAAAAAAAAAAAA3wMAAAAAAADfAwAAAAAAAA0AAADDqWxlY3RyaWNpdMOp3wMAAAAAAADgAwAAAAAAAAAAAADgAwAAAAAAAOEDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QMAAAAAAADeAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "anique"
+					},
+					"BgAAAOEDAAAAAAAA4gMAAAAAAAAAAAAA4gMAAAAAAADjAwAAAAAAAAAAAADjAwAAAAAAAOQDAAAAAAAAAAAAAOQDAAAAAAAA5QMAAAAAAAAAAAAA5QMAAAAAAADmAwAAAAAAAAAAAADmAwAAAAAAAOcDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QMAAAAAAADhAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					10,
+					"left_delete",
+					null,
+					"CgAAAIoEAAAAAAAAigQAAAAAAAABAAAAZYkEAAAAAAAAiQQAAAAAAAABAAAAdYgEAAAAAAAAiAQAAAAAAAABAAAAcYcEAAAAAAAAhwQAAAAAAAABAAAAaYYEAAAAAAAAhgQAAAAAAAABAAAAcoUEAAAAAAAAhQQAAAAAAAABAAAAdIQEAAAAAAAAhAQAAAAAAAABAAAAY4MEAAAAAAAAgwQAAAAAAAABAAAAZYIEAAAAAAAAggQAAAAAAAABAAAAbIEEAAAAAAAAgQQAAAAAAAACAAAAw6k",
+					"AQAAAAAAAAABAAAAiwQAAAAAAACLBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "mécan"
+					},
+					"BQAAAIEEAAAAAAAAggQAAAAAAAAAAAAAggQAAAAAAACDBAAAAAAAAAAAAACDBAAAAAAAAIQEAAAAAAAAAAAAAIQEAAAAAAAAhQQAAAAAAAAAAAAAhQQAAAAAAACGBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQQAAAAAAACBBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "ique"
+					},
+					"BAAAAIYEAAAAAAAAhwQAAAAAAAAAAAAAhwQAAAAAAACIBAAAAAAAAAAAAACIBAAAAAAAAIkEAAAAAAAAAAAAAIkEAAAAAAAAigQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgQAAAAAAACGBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					10,
+					"left_delete",
+					null,
+					"CgAAAAkFAAAAAAAACQUAAAAAAAABAAAAcwgFAAAAAAAACAUAAAAAAAABAAAAZQcFAAAAAAAABwUAAAAAAAABAAAAdQYFAAAAAAAABgUAAAAAAAABAAAAcQUFAAAAAAAABQUAAAAAAAABAAAAaQQFAAAAAAAABAUAAAAAAAABAAAAcgMFAAAAAAAAAwUAAAAAAAABAAAAdAIFAAAAAAAAAgUAAAAAAAABAAAAYwEFAAAAAAAAAQUAAAAAAAABAAAAZQAFAAAAAAAAAAUAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAACgUAAAAAAAAKBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP8EAAAAAAAA/wQAAAAAAAACAAAAw6k",
+					"AQAAAAAAAAABAAAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "méca"
+					},
+					"BAAAAP8EAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAABBQAAAAAAAAAAAAABBQAAAAAAAAIFAAAAAAAAAAAAAAIFAAAAAAAAAwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wQAAAAAAAD/BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "nique"
+					},
+					"BQAAAAMFAAAAAAAABAUAAAAAAAAAAAAABAUAAAAAAAAFBQAAAAAAAAAAAAAFBQAAAAAAAAYFAAAAAAAAAAAAAAYFAAAAAAAABwUAAAAAAAAAAAAABwUAAAAAAAAIBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwUAAAAAAAADBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					10,
+					"left_delete",
+					null,
+					"CgAAACAIAAAAAAAAIAgAAAAAAAABAAAAZR8IAAAAAAAAHwgAAAAAAAABAAAAdR4IAAAAAAAAHggAAAAAAAABAAAAcR0IAAAAAAAAHQgAAAAAAAABAAAAaRwIAAAAAAAAHAgAAAAAAAABAAAAchsIAAAAAAAAGwgAAAAAAAABAAAAdBoIAAAAAAAAGggAAAAAAAABAAAAYxkIAAAAAAAAGQgAAAAAAAABAAAAZRgIAAAAAAAAGAgAAAAAAAABAAAAbBcIAAAAAAAAFwgAAAAAAAACAAAAw6k",
+					"AQAAAAAAAAABAAAAIQgAAAAAAAAhCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "mécan"
+					},
+					"BQAAABcIAAAAAAAAGAgAAAAAAAAAAAAAGAgAAAAAAAAZCAAAAAAAAAAAAAAZCAAAAAAAABoIAAAAAAAAAAAAABoIAAAAAAAAGwgAAAAAAAAAAAAAGwgAAAAAAAAcCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwgAAAAAAAAXCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "ique"
+					},
+					"BAAAABwIAAAAAAAAHQgAAAAAAAAAAAAAHQgAAAAAAAAeCAAAAAAAAAAAAAAeCAAAAAAAAB8IAAAAAAAAAAAAAB8IAAAAAAAAIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAgAAAAAAAAcCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					5,
+					"left_delete",
+					null,
+					"BQAAAEoIAAAAAAAASggAAAAAAAACAAAAw6lJCAAAAAAAAEkIAAAAAAAAAQAAAHRICAAAAAAAAEgIAAAAAAAAAQAAAGlHCAAAAAAAAEcIAAAAAAAAAQAAAGNGCAAAAAAAAEYIAAAAAAAAAQAAAGk",
+					"AQAAAAAAAAABAAAASwgAAAAAAABLCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					6,
+					"left_delete",
+					null,
+					"BgAAAEUIAAAAAAAARQgAAAAAAAABAAAAckQIAAAAAAAARAgAAAAAAAABAAAAdEMIAAAAAAAAQwgAAAAAAAABAAAAY0IIAAAAAAAAQggAAAAAAAABAAAAZUEIAAAAAAAAQQgAAAAAAAABAAAAbEAIAAAAAAAAQAgAAAAAAAACAAAAw4k",
+					"AQAAAAAAAAABAAAARggAAAAAAABGCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "mécani"
+					},
+					"BgAAAEAIAAAAAAAAQQgAAAAAAAAAAAAAQQgAAAAAAABCCAAAAAAAAAAAAABCCAAAAAAAAEMIAAAAAAAAAAAAAEMIAAAAAAAARAgAAAAAAAAAAAAARAgAAAAAAABFCAAAAAAAAAAAAABFCAAAAAAAAEYIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAgAAAAAAABACAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "que"
+					},
+					"AwAAAEYIAAAAAAAARwgAAAAAAAAAAAAARwgAAAAAAABICAAAAAAAAAAAAABICAAAAAAAAEkIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARggAAAAAAABGCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEkIAAAAAAAASggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQgAAAAAAABJCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					15,
+					"left_delete",
+					null,
+					"DwAAACMJAAAAAAAAIwkAAAAAAAABAAAAYSIJAAAAAAAAIgkAAAAAAAABAAAAYiEJAAAAAAAAIQkAAAAAAAABAAAAdSAJAAAAAAAAIAkAAAAAAAABAAAAbx8JAAAAAAAAHwkAAAAAAAABAAAAbh4JAAAAAAAAHgkAAAAAAAABAAAAYR0JAAAAAAAAHQkAAAAAAAABAAAAbRwJAAAAAAAAHAkAAAAAAAABAAAAIBsJAAAAAAAAGwkAAAAAAAABAAAAYRoJAAAAAAAAGgkAAAAAAAABAAAAYhkJAAAAAAAAGQkAAAAAAAABAAAAchgJAAAAAAAAGAkAAAAAAAABAAAAbxcJAAAAAAAAFwkAAAAAAAABAAAAYhYJAAAAAAAAFgkAAAAAAAABAAAAdBUJAAAAAAAAFQkAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAJAkAAAAAAAAkCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					11,
+					"left_delete",
+					null,
+					"CwAAABQJAAAAAAAAFAkAAAAAAAABAAAAaRMJAAAAAAAAEwkAAAAAAAABAAAAdRIJAAAAAAAAEgkAAAAAAAABAAAAZxEJAAAAAAAAEQkAAAAAAAABAAAAZBAJAAAAAAAAEAkAAAAAAAABAAAAaQ8JAAAAAAAADwkAAAAAAAABAAAAdQ4JAAAAAAAADgkAAAAAAAABAAAAaA0JAAAAAAAADQkAAAAAAAABAAAAYwwJAAAAAAAADAkAAAAAAAABAAAAIAsJAAAAAAAACwkAAAAAAAABAAAAZQoJAAAAAAAACgkAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAFQkAAAAAAAAVCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAkJAAAAAAAACQkAAAAAAAABAAAAdQgJAAAAAAAACAkAAAAAAAABAAAAbwcJAAAAAAAABwkAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAACgkAAAAAAAAKCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"paste",
+					null,
+					"AgAAAPcIAAAAAAAAEwkAAAAAAAAAAAAAEwkAAAAAAAATCQAAAAAAABEAAABMeWPDqWUgdGVjaG5pcXVlIA",
+					"AQAAAAAAAAABAAAABwkAAAAAAAD3CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"paste",
+					null,
+					"AgAAAEAIAAAAAAAAeQgAAAAAAAAAAAAAeQgAAAAAAAB5CAAAAAAAABYAAABtw6ljYW5pcXVlICBpbmR1c3RyaWVs",
+					"AQAAAAAAAAABAAAAQAgAAAAAAABVCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"paste",
+					null,
+					"AgAAAIoIAAAAAAAAvggAAAAAAAAAAAAAvggAAAAAAAC+CAAAAAAAADYAAABJbnN0aXR1dCBzdXDDqXJpZXVyIGRlcyDDqXR1ZGVzIHRlY2hub2xvZ2llcyBkZSBOYWJldWw",
+					"AQAAAAAAAAABAAAAiggAAAAAAAC+CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"paste",
+					null,
+					"AgAAAPQMAAAAAAAAAQ0AAAAAAAAAAAAAAQ0AAAAAAAABDQAAAAAAAA4AAABuaWRoYWwuYW91aW5paQ",
+					"AQAAAAAAAAABAAAAAg0AAAAAAAD0DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"paste",
+					null,
+					"AgAAACcNAAAAAAAANA0AAAAAAAAAAAAANA0AAAAAAAA0DQAAAAAAAAYAAABOaWRoYWw",
+					"AQAAAAAAAAABAAAAJw0AAAAAAAAtDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"paste",
+					null,
+					"AgAAAC8OAAAAAAAAPA4AAAAAAAAAAAAAPA4AAAAAAAA8DgAAAAAAAAYAAABOaWRoYWw",
+					"AQAAAAAAAAABAAAALw4AAAAAAAA1DgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"paste",
+					null,
+					"AgAAAPwNAAAAAAAACQ4AAAAAAAAAAAAACQ4AAAAAAAAJDgAAAAAAAA0AAABuaWRoYWwuYW91aW5p",
+					"AQAAAAAAAAABAAAACQ4AAAAAAAD8DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAAEOAAAAAAAAAg4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQ4AAAAAAAABDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAIOAAAAAAAAAg4AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAAw4AAAAAAAADDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPkMAAAAAAAA+QwAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA+gwAAAAAAAD6DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAPkMAAAAAAAA+gwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QwAAAAAAAD5DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"left_delete",
+					null,
+					"AQAAACwNAAAAAAAALA0AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAALQ0AAAAAAAAtDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAACwNAAAAAAAALQ0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALA0AAAAAAAAsDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"left_delete",
+					null,
+					"AQAAADQOAAAAAAAANA4AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAANQ4AAAAAAAA1DgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAADQOAAAAAAAANQ4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANA4AAAAAAAA0DgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"paste",
+					null,
+					"AgAAAN4DAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACBAAAAAAAABgAAABtw6ljYW5pcXVlIGluZHVzdHJpZWxsZSA",
+					"AQAAAAAAAAABAAAA3gMAAAAAAAD1AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"paste",
+					null,
+					"AgAAAIEAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACWAAAAAAAAAAYAAABOaWRoYWw",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"paste",
+					null,
+					"AgAAAG8DAAAAAAAAhQMAAAAAAAAAAAAAhQMAAAAAAACFAwAAAAAAAA0AAABOaWRoYWwgQW91aW5p",
+					"AQAAAAAAAAABAAAAfAMAAAAAAABvAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					3,
+					"left_delete",
+					null,
+					"AwAAADUDAAAAAAAANQMAAAAAAAABAAAAZzQDAAAAAAAANAMAAAAAAAABAAAAcDMDAAAAAAAAMwMAAAAAAAABAAAAag",
+					"AQAAAAAAAAABAAAANgMAAAAAAAA2AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"insert",
+					{
+						"characters": "pn"
+					},
+					"AgAAADMDAAAAAAAANAMAAAAAAAAAAAAANAMAAAAAAAA1AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwMAAAAAAAAzAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAADUDAAAAAAAANgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQMAAAAAAAA1AwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/am586/Desktop/digital skils/my-profile/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "digital skils/my-profile/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								904
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projet.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
